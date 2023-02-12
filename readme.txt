@@ -1,3 +1,5 @@
+Work by Giacomo Mossinelli and Daniele Timpano
+
 ##### NUMERICS FOR FLUIDS STRUCTURE AND ELECTROMAGNETS #####
 
 The folder contains code and report for the Project 1 - Lid Cavity Problem.
